@@ -1,1 +1,1 @@
-ALX Software Engineering course is becoming hard!
+My second readme
